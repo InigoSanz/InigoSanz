@@ -18,7 +18,7 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
 
 ## 📌 **Proyectos Destacados**
 ### 🔹 **Análisis de Medicamentos - Trabajo Fin de Grado**
-🔗 [Repositorio del Proyecto](#) *Proximamente...*
+🔗 [Repositorio del Proyecto](#) *Optimizando el proyecto...*
 - **Backend**: Java con Spring Boot.
 - **Frontend**: HTML, CSS, Bootstrap, Thymeleaf.
 - **Base de Datos**: MySQL con operaciones CRUD.
