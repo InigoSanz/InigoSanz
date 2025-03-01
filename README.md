@@ -34,7 +34,3 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
 📩 Email: i.sanzdelg@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/iñigo-sanz-delgado](https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/)  
 📂 Portafolio (próximamente...)  
-
----
-
-✍️ **Siempre abierto a nuevas oportunidades y colaboraciones en proyectos tecnológicos.**
