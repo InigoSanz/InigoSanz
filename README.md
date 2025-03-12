@@ -16,7 +16,7 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
 
 ---
 
-## 📖 **Tecnologías que estoy aprendiendo**
+## 📚 **Tecnologías que estoy aprendiendo**
 - **JavaScript** (avanzando en frameworks y desarrollo dinámico).
 - **MongoDB** (bases de datos NoSQL y optimización de consultas).
 - **Angular** (desarrollo frontend moderno y estructurado con TypeScript).
@@ -25,7 +25,7 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
 
 ## 📌 **Proyectos Destacados**
 ### 🔹 **Análisis de Medicamentos - Trabajo Fin de Grado**
-🔗 [Repositorio del Proyecto](https://github.com/InigoSanz/ACTIVUS)
+📚 [Repositorio del Proyecto](https://github.com/InigoSanz/ACTIVUS)
 - **Backend**: Java con Spring Boot.
 - **Frontend**: HTML, CSS, Bootstrap, Thymeleaf.
 - **Base de Datos**: MySQL con operaciones CRUD.
@@ -38,7 +38,14 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
 
 ---
 
-## 📫 **Contacto**
+## 📚 **GitHub**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoGithub&repo=SpringBoot&layout=compact&langs_count=6&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InigoGithub&show_icons=true&theme=dark)
+
+---
+
+## 💋 **Contacto**
 📩 Email: i.sanzdelg@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/iñigo-sanz-delgado](https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/)  
-📂 Portafolio (próximamente...)  
+📎 LinkedIn: [linkedin.com/in/iñigo-sanz-delgado](https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/)  
+📂 Portafolio (próximamente...)
