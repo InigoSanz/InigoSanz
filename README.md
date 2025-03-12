@@ -35,6 +35,8 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
   - Validaciones y seguridad en el sistema.
   - Envío de correos a los usuarios.
   - Soporte para múltiples idiomas.
+  - Obtener compatibilidad entre medicamentos.
+  - Obtener características de los medicamentos.
 
 ---
 
