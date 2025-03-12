@@ -2,17 +2,24 @@
 
 🎓 Ingeniero Informático | 🚀 Desarrollador Full Stack Junior | 💻 Apasionado por Java y Spring Boot
 
-Soy un desarrollador junior con formación en **Ingeniería Informática** y actualmente finalizando un **máster en desarrollo Full Stack**. Me especializo en **Java y Spring Boot**, con experiencia en proyectos de desarrollo backend, integración de APIs y bases de datos SQL/MySQL.
+Soy un desarrollador junior con formación en **Ingeniería Informática** y actualmente finalizando un **máster en desarrollo Full Stack**. Me especializo en **Java y Spring Boot**, iniciandome en proyectos de desarrollo backend, integración de APIs y bases de datos SQL/MySQL.
 
 ---
 
 ## 🛠️ **Tecnologías y Herramientas**
 - **Lenguajes**: Java (Spring Boot, Spring Security), Python (APIs RESTful), SQL/MySQL.
-- **Frameworks**: Spring Boot, Lombok, Maven, Thymeleaf, Bootstrap.
+- **Frameworks**: Spring Boot, Lombok, Maven, Bootstrap.
 - **Desarrollo Web**: HTML, CSS, JavaScript (básico).
 - **Control de versiones**: Git y GitHub.
-- **Infraestructura**: Servidores locales con WAMP, gestión de eCommerce con Prestashop.
+- **Infraestructura**: Servidores locales con WAMP y XAMPP, gestión de eCommerce con Prestashop.
 - **Soft Skills**: Proactivo, resolutivo, trabajo en equipo y aprendizaje continuo.
+
+---
+
+## 📖 **Tecnologías que estoy aprendiendo**
+- **JavaScript** (avanzando en frameworks y desarrollo dinámico).
+- **MongoDB** (bases de datos NoSQL y optimización de consultas).
+- **Angular** (desarrollo frontend moderno y estructurado con TypeScript).
 
 ---
 
@@ -29,6 +36,7 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
   - Envío de correos a los usuarios.
   - Soporte para múltiples idiomas.
 
+---
 
 ## 📫 **Contacto**
 📩 Email: i.sanzdelg@gmail.com  
