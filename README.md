@@ -19,7 +19,7 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
 ## 📚 **Tecnologías que estoy aprendiendo**
 - **JavaScript** (avanzando en frameworks y desarrollo dinámico).
 - **MongoDB** (bases de datos NoSQL y optimización de consultas).
-- **Angular** (desarrollo frontend moderno y estructurado con TypeScript).
+- **Angular** (desarrollo frontend y estructurado con TypeScript).
 
 ---
 
