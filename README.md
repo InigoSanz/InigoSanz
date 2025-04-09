@@ -27,7 +27,7 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
 ### 🔹 **Análisis de Medicamentos - Trabajo Fin de Grado**
 📚 [Repositorio del Proyecto](https://github.com/InigoSanz/ACTIVUS)
 - **Backend**: Java con Spring Boot.
-- **Frontend**: HTML, CSS, Bootstrap, Thymeleaf.
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Thymeleaf.
 - **Base de Datos**: MySQL con operaciones CRUD.
 - **Integración de API en Python** para analizar principios activos de medicamentos.
 - **Características**:
