@@ -8,7 +8,7 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
 
 ## 🛠️ **Tecnologías y Herramientas**
 - **Lenguajes**: Java (Spring Boot, Spring Security), Python (APIs RESTful), SQL/MySQL.
-- **Frameworks**: Spring Boot, Lombok, Maven, Bootstrap.
+- **Frameworks**: Spring Boot, Lombok, Maven.
 - **Desarrollo Web**: HTML, CSS, JavaScript (básico).
 - **Control de versiones**: Git y GitHub.
 - **Infraestructura**: Servidores locales con WAMP y XAMPP, gestión de eCommerce con Prestashop.
