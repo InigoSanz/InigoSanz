@@ -2,7 +2,7 @@
 
 🎓 Ingeniero Informático | 🚀 Desarrollador Full Stack Junior | 💻 Java y Spring Boot
 
-Soy un desarrollador junior con formación en **Ingeniería Informática** y actualmente finalizando un **máster en desarrollo Full Stack**. Me especializo en **Java y Spring Boot**, iniciandome en proyectos de desarrollo backend, integración de APIs y bases de datos SQL/MySQL.
+Soy un desarrollador junior con formación en **Ingeniería Informática** y actualmente finalizando un **máster en desarrollo Full Stack**. Me centro en **Java y Spring Boot**, iniciandome en proyectos de desarrollo backend, integración de APIs y bases de datos SQL/MySQL.
 
 ---
 
