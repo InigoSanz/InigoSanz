@@ -41,7 +41,7 @@ Soy un desarrollador junior con formación en **Ingeniería Informática** y act
 ---
 
 ## 📚 **GitHub**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoSanz&repo=SpringBoot&layout=compact&langs_count=6&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoSanz&layout=compact&langs_count=8&theme=dark&hide_border=true)
 
 ---
 
