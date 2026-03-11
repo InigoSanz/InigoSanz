@@ -11,7 +11,6 @@ Currently I focus on building **modern backend architectures**, working with rel
 
 🔎 Interested in backend development, microservices architectures and modern Java ecosystems.
 
----
 
 # Technologies
 
@@ -34,7 +33,6 @@ Angular • TypeScript • JavaScript • HTML • CSS
 ### DevOps & Tools
 Git • Jenkins • Postman • Grafana • InfluxDB • Jira
 
----
 
 # Featured Projects
 
@@ -58,7 +56,6 @@ Web application developed as my **Bachelor’s Thesis**, focused on analysing dr
 - Automated email notifications
 - Multi-language support
 
----
 
 ## 📅 GetaBreak — Employee Vacation Management
 
@@ -88,7 +85,6 @@ Full stack web application to manage employee vacation requests within companies
 - HR management panel
 - Shared calendar view
 
----
 
 ## 🌐 Accessibility Copilot — Web Accessibility Analyzer
 
@@ -105,7 +101,6 @@ Tool designed to analyse **web accessibility issues** and automatically detect a
 
 Explores the use of **AI to generate accessibility improvement suggestions**.
 
----
 
 # GitHub Stats
 
@@ -113,7 +108,6 @@ Explores the use of **AI to generate accessibility improvement suggestions**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoSanz&layout=compact&theme=dark&hide_border=true)
 
----
 
 # Contact
 
