@@ -15,8 +15,12 @@ Currently I focus on building **modern backend architectures**, working with rel
 
 # 🚀 Technologies
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,angular,ts,js,git,jenkins&theme=dark" />
+</p>
+
 ### Backend
-Java • Spring Boot • Spring Security • Spring Data • REST APIs • Maven • MapStruct
+Java • Spring Boot • Spring Security • Spring Data • REST APIs • Maven • MapStruct  
 
 ### Architecture
 Microservices • Hexagonal Architecture (Ports & Adapters)
@@ -36,7 +40,8 @@ Git • Jenkins • Postman • Grafana • InfluxDB • Jira
 
 ## 🧪 ACTIVUS — Drug Compatibility Analysis
 
-Repository: [ACTIVUS](https://github.com/InigoSanz/ACTIVUS)
+Repository:  
+[ACTIVUS](https://github.com/InigoSanz/ACTIVUS)
 
 Web application developed as my **Bachelor’s Thesis**, focused on analysing drug compatibility based on their active ingredients.
 
