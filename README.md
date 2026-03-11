@@ -1,51 +1,124 @@
-# 👋 ¡Hola! Soy Iñigo Sanz Delgado
+# 👋 Hola, soy Iñigo Sanz
 
-🎓 Ingeniero Informático | 🚀 Desarrollador Full Stack Junior | 💻 Java y Spring Boot
+💻 **Java Backend Developer** | Spring Boot | Microservices | REST APIs  
+🎓 Computer Science Engineer  
+📍 Navarra, España  
 
-Soy un desarrollador junior con formación en **Ingeniería Informática** y actualmente finalizando un **máster en desarrollo Full Stack**. Me centro en **Java y Spring Boot**, iniciandome en proyectos de desarrollo backend, integración de APIs y bases de datos SQL/MySQL.
+Soy desarrollador backend especializado en **Java y Spring Boot**, con experiencia en el desarrollo de **microservicios, APIs REST y aplicaciones full stack**.
 
----
-
-## 🛠️ **Tecnologías y Herramientas**
-- **Lenguajes**: Java (Spring Boot, Spring Security), Python (APIs RESTful), SQL/MySQL.
-- **Frameworks**: Spring Boot, Lombok, Maven.
-- **Desarrollo Web**: HTML, CSS, JavaScript (básico).
-- **Control de versiones**: Git y GitHub.
-- **Infraestructura**: Servidores locales con WAMP y XAMPP, gestión de eCommerce con Prestashop.
-- **Soft Skills**: Proactivo, resolutivo, trabajo en equipo y aprendizaje continuo.
+Actualmente me enfoco en el desarrollo de **arquitecturas backend modernas**, trabajando con bases de datos relacionales, seguridad con Spring Security y herramientas de observabilidad.
 
 ---
 
-## 📚 **Tecnologías que estoy aprendiendo**
-- **JavaScript** (avanzando en frameworks y desarrollo dinámico).
-- **MongoDB** (bases de datos NoSQL y optimización de consultas).
-- **Angular** (desarrollo frontend y estructurado con TypeScript).
+# 🚀 Tecnologías
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data
+- REST APIs
+- Maven
+- MapStruct
+
+### Arquitectura
+- Microservices
+- Hexagonal Architecture (Ports & Adapters)
+
+### Bases de datos
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQL
+
+### Frontend
+- Angular
+- TypeScript
+- JavaScript
+- HTML / CSS
+
+### DevOps y herramientas
+- Git
+- Jenkins
+- Postman
+- Grafana
+- InfluxDB
+- Jira
 
 ---
 
-## 📌 **Proyectos Destacados**
-### 🔹 **Análisis de Medicamentos - Trabajo Fin de Grado**
-📚 [Repositorio del Proyecto](https://github.com/InigoSanz/ACTIVUS)
-- **Backend**: Java con Spring Boot.
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Thymeleaf.
-- **Base de Datos**: MySQL con operaciones CRUD.
-- **Integración de API en Python** para analizar principios activos de medicamentos.
-- **Características**:
-  - Creación y gestión de usuarios con roles.
-  - Validaciones y seguridad en el sistema.
-  - Envío de correos a los usuarios.
-  - Soporte para múltiples idiomas.
-  - Obtener compatibilidad entre medicamentos.
-  - Obtener características de los medicamentos.
+# 📌 Proyectos Destacados
+
+## 🧪 ACTIVUS – Análisis de compatibilidad de medicamentos
+Repositorio:  
+https://github.com/InigoSanz/ACTIVUS
+
+Aplicación web desarrollada como **Trabajo Fin de Grado**, enfocada en analizar la compatibilidad entre medicamentos a partir de sus principios activos.
+
+**Tecnologías:**
+- Java + Spring Boot
+- MySQL
+- Thymeleaf
+- API REST en Python
+
+**Características:**
+- CRUD completo de medicamentos
+- Sistema de autenticación y roles
+- Análisis de compatibilidad entre medicamentos
+- Envío automático de correos
+- Soporte multiidioma
 
 ---
 
-## 📚 **GitHub**
+## 📅 GetaBreak – Gestión de vacaciones para empresas
+Proyecto desarrollado como **Trabajo Fin de Máster**.
+
+Aplicación web full stack para gestionar solicitudes de vacaciones en empresas con distintos roles.
+
+**Backend**
+- Java
+- Spring Boot
+- MongoDB
+- Arquitectura hexagonal
+- APIs REST
+
+**Frontend**
+- Angular
+- RxJS
+- FullCalendar
+
+**Funcionalidades**
+- Control de acceso por roles
+- Flujo de aprobación de vacaciones
+- Panel de gestión para RRHH
+- Calendario compartido
+
+---
+
+## ♿ Accessibility Copilot (en desarrollo)
+
+Herramienta para analizar **accesibilidad web** y detectar automáticamente problemas en páginas web.
+
+**Stack**
+- Java
+- Spring Boot
+- Angular
+- Selenium
+
+Explora el uso de **IA para generar recomendaciones de mejora de accesibilidad**.
+
+---
+
+# 📊 Estadísticas de GitHub
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoSanz&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 📫 **Contacto**
-📩 Email: i.sanzdelg@gmail.com  
-📎 LinkedIn: [linkedin.com/in/iñigo-sanz-delgado](https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/)  
-📂 Portafolio (próximamente...)
+# 📫 Contacto
+
+📩 **Email:** i.sanzdelg@gmail.com  
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/
+
+---
