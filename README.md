@@ -41,7 +41,7 @@ Git • Jenkins • Postman • Grafana • InfluxDB • Jira
 ## 🧪 ACTIVUS — Drug Compatibility Analysis
 
 Repository:  
-[ACTIVUS](https://github.com/InigoSanz/ACTIVUS)
+- [ACTIVUS](https://github.com/InigoSanz/ACTIVUS)
 
 Web application developed as my **Bachelor’s Thesis**, focused on analysing drug compatibility based on their active ingredients.
 
