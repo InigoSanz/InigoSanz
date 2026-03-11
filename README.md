@@ -15,7 +15,7 @@ Currently I focus on building **modern backend architectures**, working with rel
 # Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,angular,ts,js,git,jenkins&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,python,angular,ts,js,git,jenkins&theme=dark" />
 </p>
 
 ### Backend
