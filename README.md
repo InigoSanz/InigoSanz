@@ -2,6 +2,7 @@
 
 💻 **Java Backend Developer** | Spring Boot | Microservices | REST APIs  
 🎓 Computer Science Engineer  
+🎓 Master Degree in Full Stack Development
 📍 Navarra, España  
 
 Soy desarrollador backend especializado en **Java y Spring Boot**, con experiencia en el desarrollo de **microservicios, APIs REST y aplicaciones full stack**.
@@ -71,6 +72,10 @@ Aplicación web desarrollada como **Trabajo Fin de Grado**, enfocada en analizar
 ---
 
 ## 📅 GetaBreak – Gestión de vacaciones para empresas
+Repositorios:
+https://github.com/InigoSanz/TFM-Backend
+https://github.com/InigoSanz/TFM-Frontend
+
 Proyecto desarrollado como **Trabajo Fin de Máster**.
 
 Aplicación web full stack para gestionar solicitudes de vacaciones en empresas con distintos roles.
@@ -96,6 +101,8 @@ Aplicación web full stack para gestionar solicitudes de vacaciones en empresas 
 ---
 
 ## ♿ Accessibility Copilot (en desarrollo)
+Repositorio:
+https://github.com/InigoSanz/accessibility-copilot
 
 Herramienta para analizar **accesibilidad web** y detectar automáticamente problemas en páginas web.
 
@@ -118,7 +125,6 @@ Explora el uso de **IA para generar recomendaciones de mejora de accesibilidad**
 # 📫 Contacto
 
 📩 **Email:** i.sanzdelg@gmail.com  
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/
+💼 **LinkedIn:**  https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/
 
 ---
