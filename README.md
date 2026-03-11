@@ -1,110 +1,96 @@
-# 👋 Hola, soy Iñigo Sanz
+# 👋 Hi, I'm Iñigo Sanz
 
-💻 **Java Backend Developer** | Spring Boot | Microservices | REST APIs  
+💻 **Java Backend Developer** | Spring Boot | REST APIs | Microservices  
 🎓 Computer Science Engineer  
-🎓 Master Degree in Full Stack Development
-📍 Navarra, España  
+🎓 Master in Full Stack Development  
+📍 Navarra, Spain  
 
-Soy desarrollador backend especializado en **Java y Spring Boot**, con experiencia en el desarrollo de **microservicios, APIs REST y aplicaciones full stack**.
+I am a backend developer focused on **Java and Spring Boot**, with experience building **microservices, REST APIs and full stack applications**.
 
-Actualmente me enfoco en el desarrollo de **arquitecturas backend modernas**, trabajando con bases de datos relacionales, seguridad con Spring Security y herramientas de observabilidad.
+Currently I focus on building **modern backend architectures**, working with relational databases, security with Spring Security and observability tools.
+
+🔎 Interested in backend development, microservices architectures and modern Java ecosystems.
 
 ---
 
-# 🚀 Tecnologías
+# 🚀 Technologies
 
 ### Backend
-- Java
-- Spring Boot
-- Spring Security
-- Spring Data
-- REST APIs
-- Maven
-- MapStruct
+Java • Spring Boot • Spring Security • Spring Data • REST APIs • Maven • MapStruct
 
-### Arquitectura
-- Microservices
-- Hexagonal Architecture (Ports & Adapters)
+### Architecture
+Microservices • Hexagonal Architecture (Ports & Adapters)
 
-### Bases de datos
-- PostgreSQL
-- MySQL
-- MongoDB
-- SQL
+### Databases
+PostgreSQL • MySQL • MongoDB • SQL
 
 ### Frontend
-- Angular
-- TypeScript
-- JavaScript
-- HTML / CSS
+Angular • TypeScript • JavaScript • HTML • CSS
 
-### DevOps y herramientas
-- Git
-- Jenkins
-- Postman
-- Grafana
-- InfluxDB
-- Jira
+### DevOps & Tools
+Git • Jenkins • Postman • Grafana • InfluxDB • Jira
 
 ---
 
-# 📌 Proyectos Destacados
+# 📌 Featured Projects
 
-## 🧪 ACTIVUS – Análisis de compatibilidad de medicamentos
-Repositorio:  
-https://github.com/InigoSanz/ACTIVUS
+## 🧪 ACTIVUS — Drug Compatibility Analysis
 
-Aplicación web desarrollada como **Trabajo Fin de Grado**, enfocada en analizar la compatibilidad entre medicamentos a partir de sus principios activos.
+Repository: [ACTIVUS](https://github.com/InigoSanz/ACTIVUS)
 
-**Tecnologías:**
+Web application developed as my **Bachelor’s Thesis**, focused on analysing drug compatibility based on their active ingredients.
+
+**Technologies**
 - Java + Spring Boot
 - MySQL
 - Thymeleaf
-- API REST en Python
+- Python REST API
 
-**Características:**
-- CRUD completo de medicamentos
-- Sistema de autenticación y roles
-- Análisis de compatibilidad entre medicamentos
-- Envío automático de correos
-- Soporte multiidioma
+**Features**
+- Full CRUD for drug management
+- Authentication and role-based access
+- Drug compatibility analysis
+- Automated email notifications
+- Multi-language support
 
 ---
 
-## 📅 GetaBreak – Gestión de vacaciones para empresas
-Repositorios:
-https://github.com/InigoSanz/TFM-Backend
-https://github.com/InigoSanz/TFM-Frontend
+## 📅 GetaBreak — Employee Vacation Management
 
-Proyecto desarrollado como **Trabajo Fin de Máster**.
+Repositories:
+- [Backend](https://github.com/InigoSanz/TFM-Backend)
+- [Frontend](https://github.com/InigoSanz/TFM-Frontend)
 
-Aplicación web full stack para gestionar solicitudes de vacaciones en empresas con distintos roles.
+Project developed as my **Master’s Thesis**.
+
+Full stack web application to manage employee vacation requests within companies.
 
 **Backend**
 - Java
 - Spring Boot
 - MongoDB
-- Arquitectura hexagonal
-- APIs REST
+- Hexagonal architecture
+- REST APIs
 
 **Frontend**
 - Angular
 - RxJS
 - FullCalendar
 
-**Funcionalidades**
-- Control de acceso por roles
-- Flujo de aprobación de vacaciones
-- Panel de gestión para RRHH
-- Calendario compartido
+**Features**
+- Role-based access control
+- Vacation approval workflow
+- HR management panel
+- Shared calendar view
 
 ---
 
-## ♿ Accessibility Copilot (en desarrollo)
-Repositorio:
-https://github.com/InigoSanz/accessibility-copilot
+## ♿ Accessibility Copilot — Web Accessibility Analyzer
 
-Herramienta para analizar **accesibilidad web** y detectar automáticamente problemas en páginas web.
+Repository:  
+[accessibility-copilot](https://github.com/InigoSanz/accessibility-copilot)
+
+Tool designed to analyse **web accessibility issues** and automatically detect accessibility problems on websites.
 
 **Stack**
 - Java
@@ -112,19 +98,23 @@ Herramienta para analizar **accesibilidad web** y detectar automáticamente prob
 - Angular
 - Selenium
 
-Explora el uso de **IA para generar recomendaciones de mejora de accesibilidad**.
+Explores the use of **AI to generate accessibility improvement suggestions**.
 
 ---
 
-# 📊 Estadísticas de GitHub
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=InigoSanz&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoSanz&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-# 📫 Contacto
+# 📫 Contact
 
 📩 **Email:** i.sanzdelg@gmail.com  
-💼 **LinkedIn:**  https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/
+💼 **LinkedIn:** https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/
 
 ---
+
+⭐ From [InigoSanz](https://github.com/InigoSanz)
