@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Iñigo Sanz
+# Hi, I'm Iñigo Sanz
 
 💻 **Java Backend Developer** | Spring Boot | REST APIs | Microservices  
 🎓 Computer Science Engineer  
@@ -13,7 +13,7 @@ Currently I focus on building **modern backend architectures**, working with rel
 
 ---
 
-# 🚀 Technologies
+# Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,angular,ts,js,git,jenkins&theme=dark" />
@@ -36,7 +36,7 @@ Git • Jenkins • Postman • Grafana • InfluxDB • Jira
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
 ## 🧪 ACTIVUS — Drug Compatibility Analysis
 
@@ -90,10 +90,10 @@ Full stack web application to manage employee vacation requests within companies
 
 ---
 
-## ♿ Accessibility Copilot — Web Accessibility Analyzer
+## 🌐 Accessibility Copilot — Web Accessibility Analyzer
 
 Repository:  
-[accessibility-copilot](https://github.com/InigoSanz/accessibility-copilot)
+- [accessibility-copilot](https://github.com/InigoSanz/accessibility-copilot)
 
 Tool designed to analyse **web accessibility issues** and automatically detect accessibility problems on websites.
 
@@ -107,7 +107,7 @@ Explores the use of **AI to generate accessibility improvement suggestions**.
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InigoSanz&show_icons=true&theme=dark&hide_border=true)
 
@@ -115,7 +115,7 @@ Explores the use of **AI to generate accessibility improvement suggestions**.
 
 ---
 
-# 📫 Contact
+# Contact
 
 📩 **Email:** i.sanzdelg@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/
