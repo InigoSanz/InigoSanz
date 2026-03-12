@@ -1,13 +1,13 @@
 # Hi, I'm Iñigo Sanz
 
-💻 **Java Backend Developer** | Spring Boot | REST APIs | Microservices  
+💻 Java Backend Developer | Spring Boot | REST APIs | Microservices  
 🎓 Computer Science Engineer  
 🎓 Master in Full Stack Development  
 📍 Navarra, Spain  
 
-I am a backend developer focused on **Java and Spring Boot**, with experience building **microservices, REST APIs and full stack applications**.
+I am a backend developer focused on Java and Spring Boot, with experience building microservices, REST APIs and full stack applications.
 
-Currently I focus on building **modern backend architectures**, working with relational databases, security with Spring Security and observability tools.
+Currently I focus on building modern backend architectures, working with relational databases, security with Spring Security and observability tools.
 
 🔎 Interested in backend development, microservices architectures and modern Java ecosystems.
 
@@ -41,7 +41,7 @@ Git • Jenkins • Postman • Grafana • InfluxDB • Jira
 Repository:  
 - [ACTIVUS](https://github.com/InigoSanz/ACTIVUS)
 
-Web application developed as my **Bachelor’s Thesis**, focused on analysing drug compatibility based on their active ingredients.
+Web application developed as my Bachelor’s Thesis, focused on analysing drug compatibility based on their active ingredients.
 
 **Technologies**
 - Java + Spring Boot
@@ -63,7 +63,7 @@ Repositories:
 - [Backend](https://github.com/InigoSanz/TFM-Backend)
 - [Frontend](https://github.com/InigoSanz/TFM-Frontend)
 
-Project developed as my **Master’s Thesis**.
+Project developed as my Master’s Thesis.
 
 Full stack web application to manage employee vacation requests within companies.
 
@@ -91,7 +91,7 @@ Full stack web application to manage employee vacation requests within companies
 Repository:  
 - [accessibility-copilot](https://github.com/InigoSanz/accessibility-copilot)
 
-Tool designed to analyse **web accessibility issues** and automatically detect accessibility problems on websites.
+Tool designed to analyse web accessibility issues and automatically detect accessibility problems on websites.
 
 **Stack**
 - Java
@@ -99,7 +99,7 @@ Tool designed to analyse **web accessibility issues** and automatically detect a
 - Angular
 - Selenium
 
-Explores the use of **AI to generate accessibility improvement suggestions**.
+Explores the use of AI to generate accessibility improvement suggestions.
 
 
 # GitHub Stats
