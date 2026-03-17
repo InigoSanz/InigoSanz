@@ -97,7 +97,7 @@ Tool designed to analyse web accessibility issues and automatically detect acces
 - Java
 - Spring Boot
 - Angular
-- Selenium
+- more...
 
 Explores the use of AI to generate accessibility improvement suggestions.
 
