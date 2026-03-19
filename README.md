@@ -11,23 +11,8 @@ Currently I focus on building modern backend architectures, working with relatio
 
 🔎 Interested in backend development, microservices architectures and modern Java ecosystems.
 
----
+🌐 **Portfolio:** https://inigosanz.vercel.app/
 
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://inigosanz.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://inigosanz.vercel.app/" target="_blank" rel="noopener noreferrer">
-    inigosanz.vercel.app ↗
-  </a>
-</p>
-
----
 
 # Technologies
 
