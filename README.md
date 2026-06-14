@@ -1,20 +1,20 @@
-# Hi, I'm Iñigo Sanz
+# Hi, I'm Iñigo Sanz 👋
 
 💻 Java Backend Developer | Spring Boot | REST APIs | Microservices  
+🤖 AI-powered automation & LLM/RAG integrations  
 🎓 Computer Science Engineer  
-🎓 Master in Full Stack Development  
+📜 Master in Full Stack Development  
 📍 Navarra, Spain  
 
-I am a backend developer focused on Java and Spring Boot, with experience building microservices, REST APIs and full stack applications.
+Backend developer specialized in Java and Spring Boot, with experience building microservices, REST APIs, and full stack applications. I also work with AI-powered automation and LLM/RAG integrations to build internal tools that streamline real business processes.
 
-Currently I focus on building modern backend architectures, working with relational databases, security with Spring Security and observability tools.
+Currently focused on modern backend architectures, relational databases, security with Spring Security and observability tools.
 
-🔎 Interested in backend development, microservices architectures and modern Java ecosystems.
+🔎 Interested in backend development, microservices architectures, modern Java ecosystems and applied AI.
 
 🌐 **Portfolio:** https://inigosanz.vercel.app/
 
-
-# Technologies
+## Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,python,angular,ts,js,git,jenkins&theme=dark" />
@@ -32,18 +32,19 @@ PostgreSQL • MySQL • MongoDB • SQL
 ### Frontend
 Angular • TypeScript • JavaScript • HTML • CSS
 
+### AI & Automation
+Python • LLM/RAG integrations • Process automation
+
 ### DevOps & Tools
 Git • Jenkins • Postman • Grafana • InfluxDB • Jira
 
+## Featured Projects
 
-# Featured Projects
-
-## 🧪 ACTIVUS — Drug Compatibility Analysis
-
+### 🧪 ACTIVUS — Drug Compatibility Analysis
 Repository:  
 - [ACTIVUS](https://github.com/InigoSanz/ACTIVUS)
 
-Web application developed as my Bachelor’s Thesis, focused on analysing drug compatibility based on their active ingredients.
+Web application developed as my Bachelor's Thesis, focused on analysing drug compatibility based on their active ingredients.
 
 **Technologies**
 - Java + Spring Boot
@@ -58,16 +59,12 @@ Web application developed as my Bachelor’s Thesis, focused on analysing drug c
 - Automated email notifications
 - Multi-language support
 
-
-## 📅 GetaBreak — Employee Vacation Management
-
+### 📅 GetaBreak — Employee Vacation Management
 Repositories:
 - [Backend](https://github.com/InigoSanz/TFM-Backend)
 - [Frontend](https://github.com/InigoSanz/TFM-Frontend)
 
-Project developed as my Master’s Thesis.
-
-Full stack web application to manage employee vacation requests within companies.
+Project developed as my Master's Thesis. Full stack web application to manage employee vacation requests within companies.
 
 **Backend**
 - Java
@@ -87,31 +84,23 @@ Full stack web application to manage employee vacation requests within companies
 - HR management panel
 - Shared calendar view
 
-
-## 🌐 Accessibility Copilot — Web Accessibility Analyzer
-
+### 🌐 Accessibility Copilot — Web Accessibility Analyzer
 Repository:  
 - [accessibility-copilot](https://github.com/InigoSanz/accessibility-copilot)
 
 Tool designed to analyse web accessibility issues and automatically detect accessibility problems on websites.
 
 **Stack**
-- Java
-- Spring Boot
+- Java + Spring Boot
 - Angular
-- more...
+- AI-powered suggestions for accessibility improvements
 
-Explores the use of AI to generate accessibility improvement suggestions.
-
-
-# GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InigoSanz&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoSanz&layout=compact&theme=dark&hide_border=true)
 
-
-# Contact
+## Contact
 
 📩 **Email:** i.sanzdelg@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/
