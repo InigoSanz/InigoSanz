@@ -18,7 +18,7 @@ I also build full-stack applications, developer tooling and AI-assisted automati
 - Relational and NoSQL databases
 - Full-stack development with **Angular, React and TypeScript**
 - Applied AI, LLM integrations and process automation
-- CI/CD, observability and engineering tooling
+- Observability and engineering tooling
 
 ## Technology stack
 
