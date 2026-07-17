@@ -90,6 +90,41 @@ It includes user roles, authentication, medicine management, multilingual suppor
 - Applied AI and automation
 - Web applications
 
+## GitHub activity
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="GitHub profile details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Top languages by repository"
+    width="49%"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Top languages by commits"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    alt="GitHub statistics"
+    width="49%"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+    alt="Productive time"
+    width="49%"
+  />
+</p>
+
 ## Contact
 
 - **Portfolio:** [inigosanz.vercel.app](https://inigosanz.vercel.app/)
