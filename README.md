@@ -82,14 +82,6 @@ It includes user roles, authentication, medicine management, multilingual suppor
 
 > ACTIVUS is an academic and technical demonstration. It must not be used for clinical decisions.
 
-## Current interests
-
-- Modern Java and Spring ecosystems
-- Backend architecture and API design
-- Security and observability
-- Applied AI and automation
-- Web applications
-
 ## GitHub activity
 
 <p align="center">
