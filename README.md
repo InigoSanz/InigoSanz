@@ -1,109 +1,100 @@
 # Hi, I'm Iñigo Sanz 👋
 
-💻 Java Backend Developer | Spring Boot | REST APIs | Microservices  
-🤖 AI-powered automation & LLM/RAG integrations  
-🎓 Computer Science Engineer  
-📜 Master in Full Stack Development  
+**Software Developer** focused on Spring Boot, REST APIs, microservices and maintainable backend architectures.
+
+I also build full-stack applications, developer tooling and AI-assisted automation for real business workflows.
+
 📍 Navarra, Spain  
+🎓 Computer Science Engineer  
+📜 Master's Degree in Full Stack Development  
 
-Backend developer specialized in Java and Spring Boot, with experience building microservices, REST APIs, and full stack applications. I also work with AI-powered automation and LLM/RAG integrations to build internal tools that streamline real business processes.
+[Portfolio](https://inigosanz.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/) · [Email](mailto:i.sanzdelg@gmail.com)
 
-Currently focused on modern backend architectures, relational databases, security with Spring Security and observability tools.
+## About me
 
-🔎 Interested in backend development, microservices architectures, modern Java ecosystems and applied AI.
+- Backend development with **Java, Spring Boot and Spring Data**
+- REST APIs, microservices and **hexagonal architecture**
+- Authentication, authorization and application security
+- Relational and NoSQL databases
+- Full-stack development with **Angular, React and TypeScript**
+- Applied AI, LLM integrations and process automation
+- CI/CD, observability and engineering tooling
 
-🌐 **Portfolio:** https://inigosanz.vercel.app/
+## Technology stack
 
-## Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,python,angular,ts,js,git,jenkins&theme=dark" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,python,angular,ts,js,docker,git,jenkins&theme=dark"
+    alt="Technology stack"
+  />
 </p>
 
-### Backend
-Java • Spring Boot • Spring Security • Spring Data • REST APIs • Maven • MapStruct  
+| Area | Technologies |
+|---|---|
+| **Backend** | Java, Spring Boot, REST APIs, MapStruct |
+| **Architecture** | Microservices, Hexagonal Architecture, Ports and Adapters |
+| **Databases** | PostgreSQL, MongoDB, SQL |
+| **Frontend** | Angular, TypeScript, JavaScript, HTML, CSS |
+| **AI & automation** | Python, LLM integrations, RAG, workflow automation |
+| **DevOps & quality** | Git, Jenkins, Docker, Postman |
+| **Observability & collaboration** | Grafana, InfluxDB, Jira |
 
-### Architecture
-Microservices • Hexagonal Architecture (Ports & Adapters)
+## Featured projects
 
-### Databases
-PostgreSQL • MySQL • MongoDB • SQL
+### 🌌 [Nebula](https://github.com/InigoSanz/nebula-project-manager)
 
-### Frontend
-Angular • TypeScript • JavaScript • HTML • CSS
+Local visual project manager that detects Git repositories and represents them as procedural 3D orbs based on their languages, complexity and recent activity.
 
-### AI & Automation
-Python • LLM/RAG integrations • Process automation
+It combines live Git information, project tasks, AI coding-agent sessions and optional integrations with Jira, Microsoft Planner, Graphify and Obsidian.
 
-### DevOps & Tools
-Git • Jenkins • Postman • Grafana • InfluxDB • Jira
+**Stack:** TypeScript, React, Fastify, WebSocket, SQLite, Three.js, React Three Fiber
 
-## Featured Projects
+---
 
-### 🧪 ACTIVUS — Drug Compatibility Analysis
-Repository:  
-- [ACTIVUS](https://github.com/InigoSanz/ACTIVUS)
+### 🌐 [Accessibility Copilot](https://github.com/InigoSanz/accessibility-copilot)
 
-Web application developed as my Bachelor's Thesis, focused on analysing drug compatibility based on their active ingredients.
+Full-stack platform for auditing web accessibility on public sites, running automated scans and reviewing WCAG issues from a dedicated interface.
 
-**Technologies**
-- Java + Spring Boot
-- MySQL
-- Thymeleaf
-- Python REST API
+The backend performs asynchronous scans with Playwright and axe-core, persists results in PostgreSQL and exposes an OpenAPI contract consumed by the Angular frontend.
 
-**Features**
-- Full CRUD for drug management
-- Authentication and role-based access
-- Drug compatibility analysis
-- Automated email notifications
-- Multi-language support
+**Stack:** Java 21, Spring Boot, Angular 21, PostgreSQL, Playwright, axe-core, Flyway, Docker, GitHub Actions
+
+---
 
 ### 📅 GetaBreak — Employee Vacation Management
-Repositories:
-- [Backend](https://github.com/InigoSanz/TFM-Backend)
-- [Frontend](https://github.com/InigoSanz/TFM-Frontend)
 
-Project developed as my Master's Thesis. Full stack web application to manage employee vacation requests within companies.
+Full-stack application developed as my Master's Thesis to manage employee vacation requests, role-based workflows, approvals, employee administration and shared calendars.
 
-**Backend**
-- Java
-- Spring Boot
-- MongoDB
-- Hexagonal architecture
-- REST APIs
+- [Backend repository](https://github.com/InigoSanz/TFM-Backend)
+- [Frontend repository](https://github.com/InigoSanz/TFM-Frontend)
 
-**Frontend**
-- Angular
-- RxJS
-- FullCalendar
+**Stack:** Java 21, Spring Boot, MongoDB, Hexagonal Architecture, Angular, TypeScript, RxJS, FullCalendar
 
-**Features**
-- Role-based access control
-- Vacation approval workflow
-- HR management panel
-- Shared calendar view
+---
 
-### 🌐 Accessibility Copilot — Web Accessibility Analyzer
-Repository:  
-- [accessibility-copilot](https://github.com/InigoSanz/accessibility-copilot)
+### 🧪 [ACTIVUS](https://github.com/InigoSanz/ACTIVUS)
 
-Tool designed to analyse web accessibility issues and automatically detect accessibility problems on websites.
+Academic web application for analysing compatibility between medicines based on their active ingredients.
 
-**Stack**
-- Java + Spring Boot
-- Angular
-- AI-powered suggestions for accessibility improvements
+It includes user roles, authentication, medicine management, multilingual support and a separate Python API for the compatibility analysis.
 
-## GitHub Stats
+**Stack:** Java 17, Spring Boot, Spring Security, Spring Data JPA, MySQL, Thymeleaf, Flask, Pandas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InigoSanz&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoSanz&layout=compact&theme=dark&hide_border=true)
+> ACTIVUS is an academic and technical demonstration. It must not be used for clinical decisions.
+
+## Current interests
+
+- Modern Java and Spring ecosystems
+- Backend architecture and API design
+- Security and observability
+- Applied AI and automation
+- Web applications
 
 ## Contact
 
-📩 **Email:** i.sanzdelg@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/
+- **Portfolio:** [inigosanz.vercel.app](https://inigosanz.vercel.app/)
+- **LinkedIn:** [Iñigo Sanz Delgado](https://www.linkedin.com/in/i%C3%B1igo-sanz-delgado-854751164/)
+- **Email:** [i.sanzdelg@gmail.com](mailto:i.sanzdelg@gmail.com)
 
 ---
 
