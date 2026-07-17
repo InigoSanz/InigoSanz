@@ -1,6 +1,6 @@
 # Hi, I'm Iñigo Sanz 👋
 
-**Software Developer** focused on Spring Boot, REST APIs, microservices and maintainable backend architectures.
+**Software Developer** focused on Spring Boot, REST APIs, microservices, and AI integrations.
 
 I also build full-stack applications, developer tooling and AI-assisted automation for real business workflows.
 
