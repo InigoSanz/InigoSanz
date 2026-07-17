@@ -2,7 +2,7 @@
 
 **Software Developer** focused on Spring Boot, REST APIs, microservices, and AI integrations.
 
-I also build full-stack applications, developer tooling and AI-assisted automation for real business workflows.
+I build full-stack applications, developer tooling and AI-assisted automation for real business workflows.
 
 📍 Navarra, Spain  
 🎓 Computer Science Engineer  
