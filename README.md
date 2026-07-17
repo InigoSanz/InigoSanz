@@ -12,7 +12,7 @@ I also build full-stack applications, developer tooling and AI-assisted automati
 
 ## About me
 
-- Backend development with **Java, Spring Boot and Spring Data**
+- Backend development with **Java and Spring Boot**
 - REST APIs, microservices and **hexagonal architecture**
 - Authentication, authorization and application security
 - Relational and NoSQL databases
@@ -33,7 +33,7 @@ I also build full-stack applications, developer tooling and AI-assisted automati
 |---|---|
 | **Backend** | Java, Spring Boot, REST APIs, MapStruct |
 | **Architecture** | Microservices, Hexagonal Architecture, Ports and Adapters |
-| **Databases** | PostgreSQL, MongoDB, SQL |
+| **Databases** | PostgreSQL, MongoDB, SQL, Qdrant |
 | **Frontend** | Angular, TypeScript, JavaScript, HTML, CSS |
 | **AI & automation** | Python, LLM integrations, RAG, workflow automation |
 | **DevOps & quality** | Git, Jenkins, Docker, Postman |
