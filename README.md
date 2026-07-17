@@ -49,7 +49,7 @@ It combines live Git information, project tasks, AI coding-agent sessions and op
 
 **Stack:** TypeScript, React, Fastify, WebSocket, SQLite, Three.js, React Three Fiber
 
----
+<br>
 
 ### 🌐 [Accessibility Copilot](https://github.com/InigoSanz/accessibility-copilot)
 
@@ -59,7 +59,7 @@ The backend performs asynchronous scans with Playwright and axe-core, persists r
 
 **Stack:** Java 21, Spring Boot, Angular 21, PostgreSQL, Playwright, axe-core, Flyway, Docker, GitHub Actions
 
----
+<br>
 
 ### 📅 GetaBreak — Employee Vacation Management
 
@@ -70,7 +70,7 @@ Full-stack application developed as my Master's Thesis to manage employee vacati
 
 **Stack:** Java 21, Spring Boot, MongoDB, Hexagonal Architecture, Angular, TypeScript, RxJS, FullCalendar
 
----
+<br>
 
 ### 🧪 [ACTIVUS](https://github.com/InigoSanz/ACTIVUS)
 
