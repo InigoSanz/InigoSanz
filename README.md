@@ -41,16 +41,6 @@ I build full-stack applications, developer tooling and AI-assisted automation fo
 
 ## Featured projects
 
-### 🌌 [Nebula](https://github.com/InigoSanz/nebula-project-manager)
-
-Local visual project manager that detects Git repositories and represents them as procedural 3D orbs based on their languages, complexity and recent activity.
-
-It combines live Git information, project tasks, AI coding-agent sessions and optional integrations with Jira, Microsoft Planner, Graphify and Obsidian.
-
-**Stack:** TypeScript, React, Fastify, WebSocket, SQLite, Three.js, React Three Fiber
-
-<br>
-
 ### 🌐 [Accessibility Copilot](https://github.com/InigoSanz/accessibility-copilot)
 
 Full-stack platform for auditing web accessibility on public sites, running automated scans and reviewing WCAG issues from a dedicated interface.
